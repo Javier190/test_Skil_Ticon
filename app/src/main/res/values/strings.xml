@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test_Skil_Ticon</string>
+    <string name="register_text">Dont Have an Account? Register Here !</string>
+    <string name="login">Log In</string>
+</resources>
